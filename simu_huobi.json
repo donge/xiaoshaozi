@@ -1,0 +1,18 @@
+{
+    "Id": 1,
+    "Type": 0,
+    "Port": "0.0.0.0:8887",
+    "Email": "hello",
+    "Password": "world",
+    "AccessKey": "huobi_simu",
+    "SecurtKey": "huobi_simu",
+    "Quick": 5,
+    "Slow": 10,
+    "QuickInit": 0,
+    "SlowInit": 0,
+    "Delta": 0.5,
+    "Pulse": 15,
+    "Simulator": true,
+    "Cash": 10321.0690,
+    "Coin": 0
+}
